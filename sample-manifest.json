@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d750def9-5560-4a5c-bc0c-c6def24b5ec3",
+  "id_short": 802021,
+  "published_at": "2026-04-14T19:29:02Z",
+  "repo_name": "new-restaurant-domains-365-days-in-florida-us-sample-802021",
+  "sample_asset_name": "beamstation_802021_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/802021/beamstation_802021_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 210,
+  "sample_sha256": "37ad64e1892b561f28994660c182fe4262f7e3ce2c21c9f48fc5f462b74e73a8",
+  "sample_size_bytes": 759395,
+  "total_records": 2103
+}
