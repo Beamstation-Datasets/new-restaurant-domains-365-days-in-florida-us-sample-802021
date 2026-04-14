@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Florida, US",
+  "export_job_id": "d750def9-5560-4a5c-bc0c-c6def24b5ec3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 802021,
+  "location_name": "Florida",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-florida-us-sample-802021",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/802021/beamstation_802021_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 210,
+  "sample_sha256": "37ad64e1892b561f28994660c182fe4262f7e3ce2c21c9f48fc5f462b74e73a8",
+  "sample_size_bytes": 759395,
+  "total_records": 2103,
+  "updated_at": "2026-04-09T21:01:01.040599+00:00"
+}
